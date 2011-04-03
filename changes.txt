@@ -1,0 +1,5 @@
+Algorithm::Diff::Fast change log
+
+0.01 - 4th April 2010
+
+- Initial release
